@@ -1,0 +1,23 @@
+{
+  "name": "TestAssignment",
+  "version": "1.0.0",
+  "description": "Assignment Test",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamplank/TestAssignment.git"
+  },
+  "author": "shubham agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamplank/TestAssignment/issues"
+  },
+  "homepage": "https://github.com/shubhamplank/TestAssignment#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
